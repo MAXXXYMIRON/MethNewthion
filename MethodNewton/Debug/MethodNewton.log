@@ -1,0 +1,6 @@
+﻿  Main.cpp
+c:\users\knigh\desktop\vich math\methodnewton\methodnewton\main.cpp(13): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+c:\users\knigh\desktop\vich math\methodnewton\methodnewton\main.cpp(17): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+c:\users\knigh\desktop\vich math\methodnewton\methodnewton\main.cpp(39): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\knigh\desktop\vich math\methodnewton\methodnewton\main.cpp(40): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  MethodNewton.vcxproj -> C:\Users\KNIGH\Desktop\Vich Math\MethodNewton\Debug\MethodNewton.exe
